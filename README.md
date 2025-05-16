@@ -38,7 +38,6 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`App running on http://54.67.61.58:${PORT}`);
 });
-**-------------------------------------------------------------------------------------------**
 
 Create views/index.html:
 
